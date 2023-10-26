@@ -27,16 +27,16 @@ nav {
 	opacity: 0.8;
 	width: 100%;
 }
-ul {
+button {
 	position: relative;
 	list-style: none;
-	margin: 0;
-	padding: 0 50px;
+	margin-left: 5px;
+	padding: 0;
 	overflow: auto;
 	opacity: 0.8;
-	background-color: #2f007a;
+	background-color: black;
 }
-li {
+button-cont {
 	float: left;
 	border: 0 5px 0 5px solid white;
 	border-radius: 10px;
