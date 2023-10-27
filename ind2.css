@@ -36,7 +36,7 @@
 /* Classe que vai atribuir ao item e cor da fonte do link do botão */
 
 .dropdown-content a:hover {
-    background-color: #272727; /*Cor do fundo do itemda cortina*/
+    background-color: #272727; /*Cor do fundo do item da cortina*/
 }
 /* Classe que vai atribuir cor do fundo do link do botão quando passa o mouse */
 
